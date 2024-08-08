@@ -1,9 +1,9 @@
 const cacheName = "Ommy Games-Ommy-Cracks-0.1";
 const contentToCache = [
-    "Build/7.loader.js",
-    "Build/7.framework.js",
-    "Build/7.data",
-    "Build/7.wasm",
+    "Build/1.loader.js",
+    "Build/1.framework.js",
+    "Build/1.data",
+    "Build/1.wasm",
     "TemplateData/style.css"
 
 ];
